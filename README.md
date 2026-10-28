@@ -1,5 +1,9 @@
 # B站注意力伴侣｜防沉迷胶囊
+## 立即安装
 
+**[点击安装 B站注意力伴侣 v3.0.0](https://raw.githubusercontent.com/Pillow8/bilibili-focus-capsule/main/Bilibili-Focus-Capsule.user.js)**
+
+需要先安装 Tampermonkey 浏览器扩展。
 一个在哔哩哔哩网页端运行的轻量 Tampermonkey 用户脚本。通过悬浮胶囊、评论区计时、浏览行为提醒与本地统计，帮助用户更有意识地使用 B站，而不是简单地屏蔽网站。
 
 > 当前脚本版本：**3.0.0**。本项目用于个人时间管理和辅助观察；所有分类、时长与干预效果均为规则或行为信号产生的估计，不等于内容真伪判断，也不等于准确测量注意力。
